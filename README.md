@@ -25,11 +25,13 @@ I am a future Full - Stack Developer
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
-                    
+ <br>                   
 
  ### Socials
                   
  <p align="left"> <a href="https://www.github.com/brezitski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+ <br> 
 
 <b>My GitHub Stats</b>
 
@@ -38,6 +40,8 @@ I am a future Full - Stack Developer
 <a href="http://www.github.com/peterbrezitski"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peterbrezitski&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/peterbrezitski"><img src="https://activity-graph.herokuapp.com/graph?username=peterbrezitski&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+ <br> 
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/sarithan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
