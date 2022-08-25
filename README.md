@@ -1,13 +1,13 @@
 Hey there! My name is Petar Brezitski
 =======================================================================================================================================
 
-I am a future Full - Stack Developer
+I'm a future Full - Stack Developer
 ------------------------------------
 
 *   🌍  I'm based in Sofia, Bulgaria
-*   🖥️  See my portfolio at [brezitski.com](http://brezitski.com)
-*   ✉️  You can contact me at [brezitski@yahoo.com](mailto:brezitski@yahoo.com)
-*   🧠  I'm learning Javascript
+*   🖥️  You can see my portfolio at [brezitski.com](http://brezitski.com)
+*   ✉️  Contact me at [brezitski@yahoo.com](mailto:brezitski@yahoo.com)
+*   🧠  I'm currently learning Javascript
 
  <br> 
 
