@@ -1,13 +1,13 @@
 Hey there! My name is Petar Brezitski
 =======================================================================================================================================
 
-I'm a future Full - Stack Developer
+I'm a Junior WordPress Developer / Beginner Front End Developer
 ------------------------------------
 
 *   🌍  I'm based in Sofia, Bulgaria
 *   🖥️  You can see my portfolio at [brezitski.com](http://brezitski.com)
 *   ✉️  Contact me at [brezitski@yahoo.com](mailto:brezitski@yahoo.com)
-*   🧠  I'm currently learning Javascript
+*   🧠  I'm currently learning SEO
 
  <br> 
 
