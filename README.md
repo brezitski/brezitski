@@ -1,13 +1,13 @@
 Hey there! My name is Petar Brezitski
 =======================================================================================================================================
 
-I'm a Junior WordPress Developer / Beginner Front End Developer
+I'm a WordPress Developer and an Hosting Services and E-commerce Specialist
 ------------------------------------
 
 *   🌍  I'm based in Sofia, Bulgaria
 *   🖥️  You can see my portfolio at [brezitski.com](http://brezitski.com)
-*   ✉️  Contact me at [brezitski@yahoo.com](mailto:brezitski@yahoo.com)
-*   🧠  I'm currently learning SEO
+*   ✉️  Contact me at [hello@brezitski.com](mailto:hello@brezitski.com)
+*   🧠  I'm currently learning SEO.
 
  <br> 
 
