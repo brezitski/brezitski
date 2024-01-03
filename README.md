@@ -1,13 +1,13 @@
 Hey there! My name is Petar Brezitski
 =======================================================================================================================================
 
-I'm a WordPress Developer and an Hosting Services and E-commerce Specialist
+I currently work as a Technical Support Team Lead at CloudCart.
 ------------------------------------
 
 *   🌍  I'm based in Sofia, Bulgaria
 *   🖥️  You can see my portfolio at [brezitski.com](http://brezitski.com)
 *   ✉️  Contact me at [hello@brezitski.com](mailto:hello@brezitski.com)
-*   🧠  I'm currently learning SEO.
+*   🧠  I'm currently learning Javascript.
 
  <br> 
 
